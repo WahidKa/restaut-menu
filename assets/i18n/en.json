@@ -1,0 +1,340 @@
+{
+  "menu": [
+    {
+      "section": "KEBAP Turkey",
+      "description": "Turkish specialty of roasted meat on a rotating spit, sliced into thin pieces",
+      "items": [
+        {
+          "id": 1,
+          "name": "DONER KEBAP",
+          "description": "Pita bread, beef, lettuce, tomato, onion, and special sauce",
+          "price": "6,60€",
+          "image": "1.avif"
+        },
+        {
+          "id": 2,
+          "name": "TAVUK KEBAP",
+          "description": "Pita bread, chicken, lettuce, tomato, onion, and special sauce",
+          "price": "6,60€",
+          "image": "2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "DONER KEBAP WITH CHEESE",
+          "description": "Pita bread, beef, chicken, or mixed, lettuce, tomato, onion, cheese, and special sauce",
+          "price": "7,60€",
+          "image": "3.png"
+        },
+        {
+          "id": 4,
+          "name": "DOUBLE DONER KEBAP",
+          "description": "Pita bread, double beef, chicken, or mixed, lettuce, tomato, onion, and special sauce",
+          "price": "7,60€",
+          "image": "4.jpg"
+        },
+        {
+          "id": 5,
+          "name": "DONER KEBAP FALAFEL",
+          "description": "Pita bread, falafel, lettuce, tomato, onion, and special sauce",
+          "price": "6,60€",
+          "image": "5.jpg"
+        },
+        {
+          "id": 6,
+          "name": "BOX KEBAP",
+          "description": "Beef, chicken, or mixed, fries, and special sauce",
+          "price": "8,60€",
+          "image": "6.webp"
+        }
+      ],
+      "additional_info": "+10% surcharge for terrace service on the room price"
+    },
+    {
+      "section": "DURUM Turkey",
+      "description": "Artisanal rolled thin bread",
+      "items": [
+        {
+          "id": 7,
+          "name": "DURUM",
+          "description": "Tortilla bread, beef, chicken, or mixed, lettuce, tomato, onion, and special sauce",
+          "price": "7,60€",
+          "image": "7.webp"
+        },
+        {
+          "id": 8,
+          "name": "DURUM WITH CHEESE",
+          "description": "Tortilla bread, beef, chicken, or mixed, lettuce, tomato, onion, cheese, and special sauce",
+          "price": "8,60€",
+          "image": "8.jpg"
+        },
+        {
+          "id": 9,
+          "name": "DOUBLE DURUM",
+          "description": "Tortilla bread, double beef, chicken, or mixed, lettuce, tomato, onion, and special sauce",
+          "price": "8,90€",
+          "image": "9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "DURUM WITH CORN",
+          "description": "Tortilla bread, beef, chicken, or mixed, corn, lettuce, tomato, onion, and special sauce",
+          "price": "8,60€",
+          "image": "10.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "DURUM WITH PINEAPPLE",
+          "description": "Tortilla bread, beef, chicken, or mixed, pineapple, lettuce, tomato, onion, and special sauce",
+          "price": "8,60€",
+          "image": "11.jpeg"
+        },
+        {
+          "id": 12,
+          "name": "DURUM FALAFEL",
+          "description": "Tortilla bread, falafel, lettuce, tomato, onion, and special sauce",
+          "price": "7,60€",
+          "image": "12.jpeg"
+        }
+      ],
+      "additional_info": "+10% surcharge for terrace service on the room price"
+    },
+    {
+      "section": "PLATOS Turkey",
+      "description": "Our platter varieties",
+      "items": [
+        {
+          "id": 13,
+          "name": "HOUSE PLATTER",
+          "description": "Beef, chicken, or mixed, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "12,90€",
+          "image": "13.jpg"
+        },
+        {
+          "id": 14,
+          "name": "GRILLED CHICKEN FILETS",
+          "description": "Grilled chicken fillets, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "12,90€",
+          "image": "14.jpg"
+        },
+        {
+          "id": 15,
+          "name": "GRILLED BEEF FILETS",
+          "description": "Grilled beef fillets, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "12,90€",
+          "image": "15.jpeg"
+        },
+        {
+          "id": 16,
+          "name": "KOFTE",
+          "description": "Grilled beef patties, fries, bulgur rice, salad, and pita bread",
+          "price": "16,90€",
+          "image": "16.webp"
+        },
+        {
+          "id": 17,
+          "name": "LAMB SKEWER",
+          "description": "Grilled lamb skewers, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "19,90€",
+          "image": "17.webp"
+        },
+        {
+          "id": 18,
+          "name": "CHICKEN SKEWER",
+          "description": "Grilled chicken skewers, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "17,90€",
+          "image": "18.jpg"
+        },
+        {
+          "id": 19,
+          "name": "BOSPHORUS TURKEY PLATTER",
+          "description": "Bread, beef, chicken, or mixed, falafel, cheese, sigara boregi, fries, rice",
+          "price": "15,90€",
+          "image": "19.webp"
+        },
+        {
+          "id": 20,
+          "name": "SPECIAL YAPRAK SARMA TURKEY",
+          "description": "Vine leaves stuffed with rice, beef, chicken, or mixed, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "15,90€",
+          "image": "20.avif"
+        },
+        {
+          "id": 21,
+          "name": "TRADITIONAL TURKISH",
+          "description": "Turkish croquettes, falafel, sigara boregi, cheese, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "15,90€",
+          "image": "21.jpg"
+        },
+        {
+          "id": 22,
+          "name": "IÇLI KOFTE - TRADITIONAL CROQUETTES",
+          "description": "Croquettes stuffed with beef, onion, walnut, and traditional Turkish spices, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "12,90€",
+          "image": "22.jpg"
+        },
+        {
+          "id": 23,
+          "name": "ISKENDER KEBAP PLATTER",
+          "description": "Bread, beef, natural yogurt, special tomato sauce, and natural butter",
+          "price": "13,90€",
+          "image": "23.avif"
+        },
+        {
+          "id": 24,
+          "name": "GRILLED CHICKEN WINGS PLATTER",
+          "description": "Grilled chicken wings, fries, bulgur rice, salad, special sauce, and pita bread",
+          "price": "11,90€",
+          "image": "24.webp"
+        },
+        {
+          "id": 25,
+          "name": "SIGARA BOREGI",
+          "description": "Thin rolled bread with feta cheese (6 pcs), Turkish salad, and pita bread",
+          "price": "6,90€",
+          "image": "25.jpg"
+        }
+      ],
+      "additional_info": "+10% surcharge for terrace service on the room price"
+    },
+    {
+      "section": "PIZZAS",
+      "description": "Enjoy our wide variety of homemade artisan pizzas",
+      "items": [
+        {
+          "id": 26,
+          "name": "SALAMI PIZZA",
+          "description": "Special tomato sauce, cheese, and salami",
+          "price": "10,90€",
+          "image": "26.jpg"
+        },
+        {
+          "id": 27,
+          "name": "HAM PIZZA",
+          "description": "Special tomato sauce, cheese, and ham",
+          "price": "10,90€",
+          "image": "27.jpg"
+        },
+        {
+          "id": 28,
+          "name": "HAWAIIAN PIZZA",
+          "description": "Special tomato sauce, cheese, bacon, and pineapple",
+          "price": "10,90€",
+          "image": "28.jpg"
+        },
+        {
+          "id": 29,
+          "name": "BOSPHORUS PIZZA",
+          "description": "Special tomato sauce, cheese, ham, salami, mushrooms, and onion",
+          "price": "10,90€",
+          "image": "29.jpg"
+        },
+        {
+          "id": 30,
+          "name": "KEBAP PIZZA",
+          "description": "Special tomato sauce, cheese, meat, mushrooms, fresh tomato, and onion",
+          "price": "10,90€",
+          "image": "30.png"
+        },
+        {
+          "id": 31,
+          "name": "TUNA PIZZA",
+          "description": "Special tomato sauce, cheese, tuna, and onion",
+          "price": "10,90€",
+          "image": "31.jpg"
+        },
+        {
+          "id": 32,
+          "name": "CALZONE PIZZA",
+          "description": "Special tomato sauce, cheese, ham, salami, mushrooms, onion, and pepper",
+          "price": "10,90€",
+          "image": "32.webp"
+        },
+        {
+          "id": 33,
+          "name": "VEGETABLE PIZZA",
+          "description": "Special tomato sauce, cheese, mushrooms, pepper, onion, tomato, and corn",
+          "price": "10,90€",
+          "image": "33.jpeg"
+        },
+        {
+          "id": 34,
+          "name": "MUSHROOM PIZZA",
+          "description": "Special tomato sauce, cheese, and fresh mushrooms",
+          "price": "10,90€",
+          "image": "34.jpg"
+        },
+        {
+          "id": 35,
+          "name": "SPECIAL PIZZA",
+          "description": "Special tomato sauce, cheese, fresh mushrooms, pepper, onion, fresh tomato, corn, and egg",
+          "price": "10,90€",
+          "image": "35.jpeg"
+        },
+        {
+          "id": 36,
+          "name": "MARGHERITA PIZZA",
+          "description": "Special tomato sauce and cheese",
+          "price": "10,90€",
+          "image": "36.jpg"
+        },
+        {
+          "id": 37,
+          "name": "FOUR CHEESE PIZZA",
+          "description": "Special tomato sauce and a mix of four cheeses",
+          "price": "10,90€",
+          "image": "37.avif"
+        },
+        {
+          "id": 38,
+          "name": "MIXED PIZZA",
+          "description": "Special tomato sauce, cheese, ham, salami, and bacon",
+          "price": "10,90€",
+          "image": "38.jpeg"
+        },
+        {
+          "id": 39,
+          "name": "ANCHOVY PIZZA",
+          "description": "Special tomato sauce, cheese, and anchovies",
+          "price": "10,90€",
+          "image": "39.jpg"
+        },
+        {
+          "id": 40,
+          "name": "BIBER VE ZETINLI PIZZA",
+          "description": "Special tomato sauce, cheese, green and red peppers, mushrooms, and olives",
+          "price": "10,90€",
+          "image": "40.webp"
+        },
+        {
+          "id": 41,
+          "name": "CASA HIDAR PIZZA",
+          "description": "Special tomato sauce, cheese, anchovies, green pepper",
+          "price": "10,90€",
+          "image": "41.jpeg"
+        },
+        {
+          "id": 42,
+          "name": "DOGAN PIZZA",
+          "description": "Special tomato sauce, cheese, artichokes, white asparagus, capers, black olives, and fresh mushrooms",
+          "price": "10,90€",
+          "image": "42.jpg"
+        },
+        {
+          "id": 43,
+          "name": "MADRID PIZZA",
+          "description": "Special tomato sauce, cheese, minced lamb",
+          "price": "10,90€",
+          "image": "43.jpg"
+        },
+        {
+          "id": 44,
+          "name": "DIYARBAKIR PIZZA",
+          "description": "Special tomato sauce, cheese, egg, corn, pepper, onion, and black olives",
+          "price": "10,90€",
+          "image": "44.jpg"
+        }
+      ],
+      "additional_info": "+10% surcharge for terrace service on the room price"
+    }
+  ]
+}
