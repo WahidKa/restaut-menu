@@ -1,0 +1,341 @@
+{
+    "menu": [
+      {
+        "section": "KEBAP Turkey",
+        "description": "Especialidad turca de carne asada en torno giratorio y cortada en láminas",
+        "items": [
+          {
+            "id": 1,
+            "name": "DONER KEBAP",
+            "description": "Pan de pita, carne de ternera, lechuga, tomate, cebolla y salsa especial",
+            "price": "6,60€",
+            "image": "1.avif"
+          },
+          {
+            "id": 2,
+            "name": "TAVUK KEBAP",
+            "description": "Pan de pita, carne de pollo, lechuga, tomate, cebolla y salsa especial",
+            "price": "6,60€",
+            "image": "2.jpeg"
+          },
+          {
+            "id": 3,
+            "name": "DONER KEBAP CON QUESO",
+            "description": "Pan de pita, carne de ternera, pollo o mixto, lechuga, tomate, cebolla, queso y salsa especial",
+            "price": "7,60€",
+            "image": "3.png"
+          },
+          {
+            "id": 4,
+            "name": "DONER KEBAP DOBLE",
+            "description": "Pan de pita, doble de carne de ternera, pollo o mixto, lechuga, tomate, cebolla y salsa especial",
+            "price": "7,60€",
+            "image": "4.jpg"
+          },
+          {
+            "id": 5,
+            "name": "DONER KEBAP FALAFEL",
+            "description": "Pan de pita, falafel, lechuga, tomate, cebolla, y salsa especial",
+            "price": "6,60€",
+            "image": "5.jpg"
+          },
+          {
+            "id": 6,
+            "name": "BOX KEBAP",
+            "description": "Carne de ternera, pollo o mixto, patatas y salsa especial",
+            "price": "8,60€",
+            "image": "6.webp"
+          }
+        ],
+        "additional_info": "+10% de suplemento en terraza sobre precio de sala"
+      },
+      {
+        "section": "DURUM Turkey",
+        "description": "Pan fino enrollado artesanal",
+        "items": [
+          {
+            "id": 7,
+            "name": "DURUM",
+            "description": "Pan de tortilla, carne de ternera, pollo o mixto, lechuga, tomate, cebolla y salsa especial",
+            "price": "7,60€",
+            "image": "7.webp"
+          },
+          {
+            "id": 8,
+            "name": "DURUM CON QUESO",
+            "description": "Pan de tortilla, carne de ternera, pollo o mixto, lechuga, tomate, cebolla, queso y salsa especial",
+            "price": "8,60€",
+            "image": "8.jpg"
+          },
+          {
+            "id": 9,
+            "name": "DURUM DOBLE",
+            "description": "Pan de tortilla, doble de carne de ternera, pollo o mixto, lechuga, tomate, cebolla y salsa especial",
+            "price": "8,90€",
+            "image": "9.jpeg"
+          },
+          {
+            "id": 10,
+            "name": "DURUM CON MAÍZ",
+            "description": "Pan de tortilla, carne de ternera, pollo o mixto, maíz, lechuga, tomate, cebolla y salsa especial",
+            "price": "8,60€",
+            "image": "10.jpeg"
+          },
+          {
+            "id": 11,
+            "name": "DURUM CON PIÑA",
+            "description": "Pan de tortilla, carne de ternera, pollo o mixto, piña, lechuga, tomate, cebolla y salsa especial",
+            "price": "8,60€",
+            "image": "11.jpeg"
+          },
+          {
+            "id": 12,
+            "name": "DURUM FALAFEL",
+            "description": "Pan de tortilla, falafel, lechuga, tomate, cebolla y salsa especial",
+            "price": "7,60€",
+            "image": "12.jpeg"
+          }
+        ],
+        "additional_info": "+10% de suplemento en terraza sobre precio de sala"
+      },
+      {
+        "section": "PLATOS Turkey",
+        "description": "Tabak Çeşitlerimiz",
+        "items": [
+          {
+            "id": 13,
+            "name": "PLATO DE LA CASA",
+            "description": "Carne de ternera, pollo o mixto, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "12,90€",
+            "image": "13.jpg"
+          },
+          {
+            "id": 14,
+            "name": "FILETES DE POLLO",
+            "description": "Filetes de pollo a la brasa, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "12,90€",
+            "image": "14.jpg"
+          },
+          {
+            "id": 15,
+            "name": "FILETES DE TERNERA",
+            "description": "Filetes de ternera a la brasa, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "12,90€",
+            "image": "15.jpeg"
+          },
+          {
+            "id": 16,
+            "name": "KOFTE",
+            "description": "Tortitas de carne picada de ternera a la brasa, patatas, arroz bulgur, ensalada y pan pita",
+            "price": "16,90€",
+            "image": "16.webp"
+          },
+          {
+            "id": 17,
+            "name": "KUZU SIS",
+            "description": "Pinchos de cordero a la brasa, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "19,90€",
+            "image": "17.webp"
+          },
+          {
+            "id": 18,
+            "name": "TAVUK SIS",
+            "description": "Pinchos de pollo a la brasa, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "17,90€",
+            "image": "18.jpg"
+          },
+          {
+            "id": 19,
+            "name": "PLATO BOSFOROS TURQUIA",
+            "description": "Pan, ternera, pollo o mixto, falafel, queso, cigara boregi, patatas fritas, arroz",
+            "price": "15,90€",
+            "image": "19.webp"
+          },
+          {
+            "id": 20,
+            "name": "ESPECIAL YAPRAK SARMA TURQUIA",
+            "description": "Hojas de parra rellenas de arroz, carne de ternera, pollo o mixto, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "15,90€",
+            "image": "20.avif"
+          },
+          {
+            "id": 21,
+            "name": "TRADICIONAL TURCO",
+            "description": "Croquetas turcas, falafel, sigara boregi, queso, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "15,90€",
+            "image": "21.jpg"
+          },
+          {
+            "id": 22,
+            "name": "IÇLI KOFTE - CROQUETAS TRADICIONALES",
+            "description": "Croquetas rellenas de carne de ternera, cebolla, nuez y especias típicas de Turquía, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "12,90€",
+            "image": "22.jpg"
+          },
+          {
+            "id": 23,
+            "name": "PLATO ISKENDER KEBAP",
+            "description": "Pan, ternera, yogurt natural y salsa de tomate natural especial y mantequilla natural",
+            "price": "13,90€",
+            "image": "23.avif"
+          },
+          {
+            "id": 24,
+            "name": "PLATO ALITAS DE POLLO A LA BRASA",
+            "description": "Alitas de pollo a la brasa, patatas, arroz bulgur, ensalada, salsa especial y pan pita",
+            "price": "11,90€",
+            "image": "24.webp"
+          },
+          {
+            "id": 25,
+            "name": "SIGARA BOREGI",
+            "description": "Masa de pan fino enrollado con queso feta (6 uds), ensalada turca y pan pita",
+            "price": "6,90€",
+            "image": "25.jpg"
+          }
+        ],
+        "additional_info": "+10% de suplemento en terraza sobre precio de sala"
+      },
+      {
+        "section": "PIZZAS",
+        "description": "Disfrute de nuestra gran variedad de pizzas artesanas de elaboración propia",
+        "items": [
+          {
+            "id": 26,
+            "name": "PIZZA SALAMI",
+            "description": "Salsa especial de tomate, queso y salami",
+            "price": "10,90€",
+            "image": "26.jpg"
+          },
+          {
+            "id": 27,
+            "name": "PIZZA JAMÓN YORK",
+            "description": "Salsa especial de tomate, queso y jamón york",
+            "price": "10,90€",
+            "image": "27.jpg"
+          },
+          {
+            "id": 28,
+            "name": "PIZZA HAWAIANA",
+            "description": "Salsa especial de tomate, queso, bacon y piña",
+            "price": "10,90€",
+            "image": "28.jpg"
+          },
+          {
+            "id": 29,
+            "name": "PIZZA BÓSFOROS",
+            "description": "Salsa especial de tomate, queso, jamón york, salami, champiñones y cebolla",
+            "price": "10,90€",
+            "image": "29.jpg"
+          },
+          {
+            "id": 30,
+            "name": "PIZZA KEBAP",
+            "description": "Salsa especial de tomate, queso, carne, champiñones, tomate natural y cebolla",
+            "price": "10,90€",
+            "image": "30.png"
+          },
+          {
+            "id": 31,
+            "name": "PIZZA ATÚN",
+            "description": "Salsa especial de tomate, queso, atún y cebolla",
+            "price": "10,90€",
+            "image": "31.jpg"
+          },
+          {
+            "id": 32,
+            "name": "PIZZA CALZONE",
+            "description": "Salsa especial de tomate, queso, jamón york, salami, champiñones, cebolla y pimiento",
+            "price": "10,90€",
+            "image": "32.webp"
+          },
+          {
+            "id": 33,
+            "name": "PIZZA VEGETAL",
+            "description": "Salsa especial de tomate, queso, champiñones, pimiento, cebolla, tomate y maíz",
+            "price": "10,90€",
+            "image": "33.jpeg"
+          },
+          {
+            "id": 34,
+            "name": "PIZZA CHAMPIÑONES",
+            "description": "Salsa especial de tomate, queso y champiñones naturales",
+            "price": "10,90€",
+            "image": "34.jpg"
+          },
+          {
+            "id": 35,
+            "name": "PIZZA ESPECIAL",
+            "description": "Salsa especial de tomate, queso y champiñones naturales, pimiento, cebolla, tomate natural, maíz y huevo",
+            "price": "10,90€",
+            "image": "35.jpeg"
+          },
+          {
+            "id": 36,
+            "name": "PIZZA MARGARITA",
+            "description": "Salsa especial de tomate y queso",
+            "price": "10,90€",
+            "image": "36.jpg"
+          },
+          {
+            "id": 37,
+            "name": "PIZZA CUATRO QUESOS",
+            "description": "Salsa especial de tomate y mezcla de cuatro quesos",
+            "price": "10,90€",
+            "image": "37.avif"
+          },
+          {
+            "id": 38,
+            "name": "PIZZA MIXTA",
+            "description": "Salsa especial de tomate, queso, jamón york, salami y bacon",
+            "price": "10,90€",
+            "image": "38.jpeg"
+          },
+          {
+            "id": 39,
+            "name": "PIZZA ANCHOAS",
+            "description": "Salsa especial de tomate, queso, anchoas",
+            "price": "10,90€",
+            "image": "39.jpg"
+          },
+          {
+            "id": 40,
+            "name": "PIZZA BIBER VE ZETINLI",
+            "description": "Salsa especial de tomate, queso, pimiento verde y pimiento rojo, champiñones y aceitunas",
+            "price": "10,90€",
+            "image": "40.webp"
+          },
+          {
+            "id": 41,
+            "name": "PIZZA DE CASA HIDAR",
+            "description": "Salsa especial de tomate, queso, anchoas, pimiento verde",
+            "price": "10,90€",
+            "image": "41.jpeg"
+          },
+          {
+            "id": 42,
+            "name": "PIZZA DOGAN",
+            "description": "Salsa especial de tomate, queso, alcachofas, espárragos blancos, alcaparras, aceitunas negras y champiñones naturales",
+            "price": "10,90€",
+            "image": "42.jpg"
+          },
+          {
+            "id": 43,
+            "name": "PIZZA MADRID",
+            "description": "Salsa especial de tomate, queso, carne picada de cordero",
+            "price": "10,90€",
+            "image": "43.jpg"
+          },
+          {
+            "id": 44,
+            "name": "PIZZA DIYARBAKIR",
+            "description": "Salsa especial de tomate, queso, huevo, maíz, pimiento, cebolla y aceitunas negras",
+            "price": "10,90€",
+            "image": "44.jpg"
+          }
+        ],
+        "additional_info": "+10% de suplemento en terraza sobre precio de sala"
+      }
+    ]
+ }
+  

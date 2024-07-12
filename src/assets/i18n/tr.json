@@ -1,0 +1,340 @@
+{
+  "menu": [
+    {
+      "section": "KEBAP Turkey",
+      "description": "Döner şişte kavrulmuş ve ince dilimlenmiş etin Türk spesiyalitesi",
+      "items": [
+        {
+          "id": 1,
+          "name": "DÖNER KEBAP",
+          "description": "Pide ekmeği, dana eti, marul, domates, soğan ve özel sos",
+          "price": "6,60€",
+          "image": "1.avif"
+        },
+        {
+          "id": 2,
+          "name": "TAVUK KEBAP",
+          "description": "Pide ekmeği, tavuk, marul, domates, soğan ve özel sos",
+          "price": "6,60€",
+          "image": "2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "PEYNİRLİ DÖNER KEBAP",
+          "description": "Pide ekmeği, dana eti, tavuk veya karışık, marul, domates, soğan, peynir ve özel sos",
+          "price": "7,60€",
+          "image": "3.png"
+        },
+        {
+          "id": 4,
+          "name": "ÇİFT DÖNER KEBAP",
+          "description": "Pide ekmeği, çift dana eti, tavuk veya karışık, marul, domates, soğan ve özel sos",
+          "price": "7,60€",
+          "image": "4.jpg"
+        },
+        {
+          "id": 5,
+          "name": "FALAFELLİ DÖNER KEBAP",
+          "description": "Pide ekmeği, falafel, marul, domates, soğan ve özel sos",
+          "price": "6,60€",
+          "image": "5.jpg"
+        },
+        {
+          "id": 6,
+          "name": "KUTU KEBAP",
+          "description": "Dana eti, tavuk veya karışık, patates ve özel sos",
+          "price": "8,60€",
+          "image": "6.webp"
+        }
+      ],
+      "additional_info": "Salon fiyatı üzerinde terasta %10 ek ücret"
+    },
+    {
+      "section": "DURUM Turkey",
+      "description": "El yapımı ince rulo ekmek",
+      "items": [
+        {
+          "id": 7,
+          "name": "DURUM",
+          "description": "Tortilla ekmeği, dana eti, tavuk veya karışık, marul, domates, soğan ve özel sos",
+          "price": "7,60€",
+          "image": "7.webp"
+        },
+        {
+          "id": 8,
+          "name": "PEYNİRLİ DURUM",
+          "description": "Tortilla ekmeği, dana eti, tavuk veya karışık, marul, domates, soğan, peynir ve özel sos",
+          "price": "8,60€",
+          "image": "8.jpg"
+        },
+        {
+          "id": 9,
+          "name": "ÇİFT DURUM",
+          "description": "Tortilla ekmeği, çift dana eti, tavuk veya karışık, marul, domates, soğan ve özel sos",
+          "price": "8,90€",
+          "image": "9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "MISIRLI DURUM",
+          "description": "Tortilla ekmeği, dana eti, tavuk veya karışık, mısır, marul, domates, soğan ve özel sos",
+          "price": "8,60€",
+          "image": "10.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "ANANASLI DURUM",
+          "description": "Tortilla ekmeği, dana eti, tavuk veya karışık, ananas, marul, domates, soğan ve özel sos",
+          "price": "8,60€",
+          "image": "11.jpeg"
+        },
+        {
+          "id": 12,
+          "name": "FALAFELLİ DURUM",
+          "description": "Tortilla ekmeği, falafel, marul, domates, soğan ve özel sos",
+          "price": "7,60€",
+          "image": "12.jpeg"
+        }
+      ],
+      "additional_info": "Salon fiyatı üzerinde terasta %10 ek ücret"
+    },
+    {
+      "section": "PLATOS Turkey",
+      "description": "Tabak Çeşitlerimiz",
+      "items": [
+        {
+          "id": 13,
+          "name": "EV TABAĞI",
+          "description": "Dana eti, tavuk veya karışık, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "12,90€",
+          "image": "13.jpg"
+        },
+        {
+          "id": 14,
+          "name": "TAVUK FILETO",
+          "description": "Izgara tavuk fileto, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "12,90€",
+          "image": "14.jpg"
+        },
+        {
+          "id": 15,
+          "name": "DANA FILETO",
+          "description": "Izgara dana fileto, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "12,90€",
+          "image": "15.jpeg"
+        },
+        {
+          "id": 16,
+          "name": "KÖFTE",
+          "description": "Izgara dana köfte, patates, bulgur pilavı, salata ve pide ekmeği",
+          "price": "16,90€",
+          "image": "16.webp"
+        },
+        {
+          "id": 17,
+          "name": "KUZU ŞİŞ",
+          "description": "Izgara kuzu şiş, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "19,90€",
+          "image": "17.webp"
+        },
+        {
+          "id": 18,
+          "name": "TAVUK ŞİŞ",
+          "description": "Izgara tavuk şiş, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "17,90€",
+          "image": "18.jpg"
+        },
+        {
+          "id": 19,
+          "name": "BOĞAZ TABAĞI",
+          "description": "Ekmek, dana eti, tavuk veya karışık, falafel, peynir, sigara böreği, patates kızartması, pilav",
+          "price": "15,90€",
+          "image": "19.webp"
+        },
+        {
+          "id": 20,
+          "name": "ÖZEL YAPRAK SARMA",
+          "description": "Pirinçle doldurulmuş asma yaprağı, dana eti, tavuk veya karışık, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "15,90€",
+          "image": "20.avif"
+        },
+        {
+          "id": 21,
+          "name": "GELENEKSEL TÜRK",
+          "description": "Türk kroketleri, falafel, sigara böreği, peynir, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "15,90€",
+          "image": "21.jpg"
+        },
+        {
+          "id": 22,
+          "name": "İÇLİ KÖFTE - GELENEKSEL KROKETLER",
+          "description": "Dana eti, soğan, ceviz ve geleneksel Türk baharatları ile doldurulmuş kroketler, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "12,90€",
+          "image": "22.jpg"
+        },
+        {
+          "id": 23,
+          "name": "ISKENDER KEBAP TABAĞI",
+          "description": "Ekmek, dana eti, doğal yoğurt, özel domates sosu ve doğal tereyağı",
+          "price": "13,90€",
+          "image": "23.avif"
+        },
+        {
+          "id": 24,
+          "name": "IZGARA TAVUK KANAT TABAĞI",
+          "description": "Izgara tavuk kanatları, patates, bulgur pilavı, salata, özel sos ve pide ekmeği",
+          "price": "11,90€",
+          "image": "24.webp"
+        },
+        {
+          "id": 25,
+          "name": "SIGARA BÖREĞİ",
+          "description": "Pide ekmeği, marul, domates, soğan ve özel sos",
+          "price": "6,90€",
+          "image": "25.jpg"
+        }
+      ],
+      "additional_info": "Salon fiyatı üzerinde terasta %10 ek ücret"
+    },
+    {
+      "section": "PIZZAS",
+      "description": "Ev yapımı artisan pizzalarımızın geniş çeşitliliğinin tadını çıkarın",
+      "items": [
+        {
+          "id": 26,
+          "name": "SALAMİ PİZZA",
+          "description": "Özel domates sosu, peynir ve salam",
+          "price": "10,90€",
+          "image": "26.jpg"
+        },
+        {
+          "id": 27,
+          "name": "JAMBON PİZZA",
+          "description": "Özel domates sosu, peynir ve jambon",
+          "price": "10,90€",
+          "image": "27.jpg"
+        },
+        {
+          "id": 28,
+          "name": "HAWAII PİZZA",
+          "description": "Özel domates sosu, peynir, pastırma ve ananas",
+          "price": "10,90€",
+          "image": "28.jpg"
+        },
+        {
+          "id": 29,
+          "name": "BOĞAZ PİZZA",
+          "description": "Özel domates sosu, peynir, jambon, salam, mantar ve soğan",
+          "price": "10,90€",
+          "image": "29.jpg"
+        },
+        {
+          "id": 30,
+          "name": "KEBAP PİZZA",
+          "description": "Özel domates sosu, peynir, et, mantar, taze domates ve soğan",
+          "price": "10,90€",
+          "image": "30.png"
+        },
+        {
+          "id": 31,
+          "name": "TON BALIĞI PİZZA",
+          "description": "Özel domates sosu, peynir, ton balığı ve soğan",
+          "price": "10,90€",
+          "image": "31.jpg"
+        },
+        {
+          "id": 32,
+          "name": "KALZON PİZZA",
+          "description": "Özel domates sosu, peynir, jambon, salam, mantar, soğan ve biber",
+          "price": "10,90€",
+          "image": "32.webp"
+        },
+        {
+          "id": 33,
+          "name": "SEBZELİ PİZZA",
+          "description": "Özel domates sosu, peynir, mantar, biber, soğan, domates ve mısır",
+          "price": "10,90€",
+          "image": "33.jpeg"
+        },
+        {
+          "id": 34,
+          "name": "MANTARLI PİZZA",
+          "description": "Özel domates sosu, peynir ve taze mantar",
+          "price": "10,90€",
+          "image": "34.jpg"
+        },
+        {
+          "id": 35,
+          "name": "ÖZEL PİZZA",
+          "description": "Özel domates sosu, peynir, taze mantar, biber, soğan, taze domates, mısır ve yumurta",
+          "price": "10,90€",
+          "image": "35.jpeg"
+        },
+        {
+          "id": 36,
+          "name": "MARGARİTA PİZZA",
+          "description": "Özel domates sosu ve peynir",
+          "price": "10,90€",
+          "image": "36.jpg"
+        },
+        {
+          "id": 37,
+          "name": "DÖRT PEYNİRLİ PİZZA",
+          "description": "Özel domates sosu ve dört peynir karışımı",
+          "price": "10,90€",
+          "image": "37.avif"
+        },
+        {
+          "id": 38,
+          "name": "KARIŞIK PİZZA",
+          "description": "Özel domates sosu, peynir, jambon, salam ve pastırma",
+          "price": "10,90€",
+          "image": "38.jpeg"
+        },
+        {
+          "id": 39,
+          "name": "HAMSİLİ PİZZA",
+          "description": "Özel domates sosu, peynir ve hamsi",
+          "price": "10,90€",
+          "image": "39.jpg"
+        },
+        {
+          "id": 40,
+          "name": "BİBER VE ZEYTİNLİ PİZZA",
+          "description": "Özel domates sosu, peynir, yeşil ve kırmızı biber, mantar ve zeytin",
+          "price": "10,90€",
+          "image": "40.webp"
+        },
+        {
+          "id": 41,
+          "name": "CASA HIDAR PİZZA",
+          "description": "Özel domates sosu, peynir, hamsi, yeşil biber",
+          "price": "10,90€",
+          "image": "41.jpeg"
+        },
+        {
+          "id": 42,
+          "name": "DOGAN PİZZA",
+          "description": "Özel domates sosu, peynir, enginar, beyaz kuşkonmaz, kapari, siyah zeytin ve taze mantar",
+          "price": "10,90€",
+          "image": "42.jpg"
+        },
+        {
+          "id": 43,
+          "name": "MADRID PİZZA",
+          "description": "Özel domates sosu, peynir, kıyma",
+          "price": "10,90€",
+          "image": "43.jpg"
+        },
+        {
+          "id": 44,
+          "name": "DIYARBAKIR PİZZA",
+          "description": "Özel domates sosu, peynir, yumurta, mısır, biber, soğan ve siyah zeytin",
+          "price": "10,90€",
+          "image": "44.jpg"
+        }
+      ],
+      "additional_info": "Salon fiyatı üzerinde terasta %10 ek ücret"
+    }
+  ]
+}

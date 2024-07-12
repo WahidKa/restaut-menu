@@ -1,0 +1,140 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  overflow: hidden; /* Prevents body scrolling */
+}
+
+.navbar {
+  background-color: #ffd700; /* Yellow color */
+  border-radius: 50px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-brand, .nav-link {
+  color: #333 !important;
+}
+
+.nav-link:hover {
+  color: #fff !important;
+}
+
+.nav-link.active {
+  background-color: #ffd700;
+  color: #fff !important;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  padding-top: 70px; /* Space for the fixed navbar */
+}
+
+.menu-content {
+  flex: 1;
+  overflow-y: auto;
+  padding-top: 20px;
+  margin-top: 45px;
+}
+
+.menu-section {
+  padding: 20px;
+}
+
+.menu-section h2 {
+  color: #ffd700; /* Yellow color */
+  border-bottom: 2px solid #ffd700;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  position: sticky;
+  top: 70px; /* Height of the fixed navbar */
+  background-color: #f8f9fa;
+  z-index: 100; /* Ensure it stays above other content */
+}
+
+.menu-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.menu-item {
+  background-color: #333;
+  color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  width: calc(33% - 20px); /* Three items per row */
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.menu-item-content {
+  padding: 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.menu-item-content h3 {
+  margin: 0;
+  font-size: 1.5em;
+  color: #ffd700; /* Yellow color */
+}
+
+.menu-item-content p {
+  margin: 10px 0;
+}
+
+.menu-item-content .price {
+  font-size: 1.2em;
+  color: #ffd700; /* Yellow color */
+}
+
+.btn-outline-primary, .btn-outline-secondary, .btn-outline-success {
+  margin-right: 5px;
+  border-radius: 50px;
+}
+
+.btn-outline-primary {
+  border-color: #ffd700;
+  color: #ffd700;
+}
+
+.btn-outline-primary:hover {
+  background-color: #ffd700;
+  color: #fff;
+  border-color: #ffd700;
+}
+
+.btn-outline-secondary {
+  border-color: #ffd700;
+  color: #ffd700;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #ffd700;
+  color: #fff;
+  border-color: #ffd700;
+}
+
+.btn-outline-success {
+  border-color: #ffd700;
+  color: #ffd700;
+}
+
+.btn-outline-success:hover {
+  background-color: #ffd700;
+  color: #fff;
+  border-color: #ffd700;
+}
